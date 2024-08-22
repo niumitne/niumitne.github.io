@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://niumitne.github.io/sitemap.html.gz
+Sitemap: https://niumitne.github.io/app/sitemap.html.gz
+Sitemap: https://niumitne.github.io/assets/sitemap.html.gz
+Sitemap: https://niumitne.github.io/css/sitemap.html.gz
+Sitemap: https://niumitne.github.io/includes/sitemap.html.gz
+Sitemap: https://niumitne.github.io/item/sitemap.html.gz
+Sitemap: https://niumitne.github.io/src/sitemap.html.gz
